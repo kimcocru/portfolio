@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Kimberly Cordero Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here you can find the projects I have worked on and a section to contact me.
 
 ## Available Scripts
 
