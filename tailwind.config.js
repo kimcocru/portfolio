@@ -7,12 +7,12 @@ module.exports = {
     extend: {
       colors: {
         // Colors you want to add go here
-        primary: "#B6BDAE",
-        secondary: "#A89073",
-        verde: "#698166",
-        quartery: "#72522C",
-        brown: "#2E210A",
-        blue: "gray-800"
+        primary: "#2C7A7B",     
+        secondary: "#393E46",   
+        verde: "#222831",      
+        quartery: "#F8B500",    
+        brown: "#222831",       
+        blue: "#8F9BA8"  
       }
     },
   },
